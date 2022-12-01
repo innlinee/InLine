@@ -86,7 +86,7 @@ a{
     justify-content: center;
     align-items: center;
     color: #eee;
-    background: url('/architecture-1867194.jpg') no-repeat center center/cover;
+    background: url('architecture-1867194.jpg') no-repeat center center/cover;
     /* Overlay */
     background-color: rgba(0,0,0,0.3);
     background-blend-mode: color;
